@@ -1,1 +1,3 @@
 *.html linguist-detectable=false
+*.Tex linguist-detectable=false
+*.python linguist-detectable=True
