@@ -8,7 +8,6 @@ This Project aims to monitor the router's internet connection and reachable stat
 ***Installation is easy because this git file contains executable and Python files for reference.
 ***After extracting the git file, configure the python file per your requirements and delete all other files excluding "Final_TEST.py".
 ***Configuring the Python file use the "PyInstaller" library to convert them to executable file.
-CMD on <your path>
-
-#pyinstaller <file name>
+>CMD on <your path>
+ pyinstaller <file name>
 
