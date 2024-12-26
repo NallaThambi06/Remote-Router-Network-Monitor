@@ -30,4 +30,6 @@ This Project aims to monitor the router's internet connection and reachable stat
 program path --- paste the path of the python.exe.<br/>
 Add arguments(optional) --- paste the python file name (eg:simple.py)<br/>
 start in(optional) --- paste your python file path (eg:C:\Users\HARI\Desktop\DESKTOP\FILES\Python workspace\) **Don't add file name**
+### Licence
+[MIT Licence](LICENCE)
 
